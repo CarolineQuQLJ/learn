@@ -9,5 +9,5 @@ INSERT INTO `blog` (title,content) VALUES ('第1个博客', '博客内容1');
 INSERT INTO `blog` (title,content) VALUES ('第2个博客', '博客内容2');
 INSERT INTO `blog` (title,content) VALUES ('第3个博客', '博客内容3');
 INSERT INTO `blog` (title,content) VALUES ('第4个博客', '博客内容4');
-
+INSERT INTO `blog` (title,content) VALUES ('第5个博客', '博客内容5');
 COMMIT;
